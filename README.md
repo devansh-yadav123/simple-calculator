@@ -19,7 +19,7 @@ The project uses separate Python files for each operation.as we are given condit
 - Multiple calculations
 
 ## Technologies Used
-  jupyter             #as we tought how to use jupyter note book only
+  jupyter             
 - Python
 - Jupyter Notebook
 - Git and GitHub

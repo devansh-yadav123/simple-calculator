@@ -52,8 +52,7 @@ Example:
 
 180 * 3 = 540
 
-20 / 4 = 5 # but in devision it was initially giving error as i use devide in place of divide
-
+20 / 4 = 5
 
 ## Conclusion
 
